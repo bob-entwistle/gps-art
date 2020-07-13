@@ -1,12 +1,12 @@
 # GPS Art Jupyter Notebook
 
-Here is the code I wrote for my runs during the GRGR2020 event. If you want to have a play with the code (and know what you are doing with jupyter notebooks) just click the Binder link below.
+Here is the code I wrote for my runs during the GRGR2020 event. If you want to have a play with the code (and know what you are doing with jupyter notebooks) just click the Binder link at the bottom of the page.
 
 If you are a little unsure on what to do hopefully the simple instructions below will help:
 
 <ol>
     <li>
-        Click the 'Launch Binder@ button below and a webpage similar to the image below should open.
+        Click the 'Launch Binder' button at the bottom of this page and a webpage similar to the image below should open (it might be good to do it so it opens in a new window or tab).
         <img src="./how-to/how-to-home.PNG" alt="Jupyter Notebook Home Page" width="800"/>
     </li>
     <li>
